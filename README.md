@@ -31,7 +31,7 @@ I bring rigor, attention to detail, and problem-solving skills into building cle
 - 🧠 Algorithms & problem solving
 
 ## Projects
-- 🔗 Libft – Custom C standard library
+- 🔗 [Libft](https://github.com/AhlemNG/LIBFT)  – Custom C standard library
 - 🔗 ft_printf – Reimplementation of printf
 - 🔗 minishell – Unix shell project
 - 🔗 push_swap – Sorting algorithm challenge
