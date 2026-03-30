@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Ahlem NOURI 👋
+
+🎓 Student at 42 School  
+🔄 Former Industrial Engineer, now Software Developer  
+
+## About me
+Former industrial engineer specialized in quality management, I transitioned into software development through 42 School.
+
+I bring rigor, attention to detail, and problem-solving skills into building clean, reliable, and scalable software.
+
+## Skills
+- 💻 C, C++, Python, Node.js
+- ⚙️ Git, Linux, Docker, Kubernetes
+- 🧠 Algorithms & problem solving
+
+## Projects
+- 🔗 Libft – Custom C standard library
+- 🔗 ft_printf – Reimplementation of printf
+- 🔗 minishell – Unix shell project
+- 🔗 push_swap – Sorting algorithm challenge
+- 🔗 webserv – HTTP web server built from scratch in C++
+- 🔗 Transcendence – Full-stack web application built with Node.js, featuring real-time interactions and authentication
+
+## Currently
+- 🚀 Working on Matcha (full-stack project)
+- 🐚 Writing Bash scripts and improving automation skills
+- 📚 Learning more about scalable systems and DevOps
+
+## Contact
+- 📫 ahlem.nouri.gallali@gmail.com
+- 💼 www.linkedin.com/in/ahlem-nouri
