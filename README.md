@@ -32,9 +32,9 @@ I bring rigor, attention to detail, and problem-solving skills into building cle
 
 ## Projects
 - 🔗 [Libft](https://github.com/AhlemNG/LIBFT)  – Custom C standard library
-- 🔗 ft_printf – Reimplementation of printf
-- 🔗 minishell – Unix shell project
-- 🔗 push_swap – Sorting algorithm challenge
+- 🔗 [ft_printf](https://github.com/AhlemNG/FT_PRINTF) – Reimplementation of printf
+- 🔗 [minishell](https://github.com/AhlemNG/MINISHELL) – Unix shell project
+- 🔗 [push_swap](https://github.com/AhlemNG/PUSH_SWAP) – Sorting algorithm challenge
 - 🔗 webserv – HTTP web server built from scratch in C++
 - 🔗 Transcendence – Full-stack web application built with Node.js, featuring real-time interactions and authentication
 
