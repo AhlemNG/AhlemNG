@@ -35,7 +35,7 @@ I bring rigor, attention to detail, and problem-solving skills into building cle
 - 🔗 [ft_printf](https://github.com/AhlemNG/FT_PRINTF) – Reimplementation of printf
 - 🔗 [minishell](https://github.com/AhlemNG/MINISHELL) – Unix shell project
 - 🔗 [push_swap](https://github.com/AhlemNG/PUSH_SWAP) – Sorting algorithm challenge
-- 🔗 webserv – HTTP web server built from scratch in C++
+- 🔗 [webserv](https://github.com/AhlemNG/WEBSERV) – HTTP web server built from scratch in C++
 - 🔗 Transcendence – Full-stack web application built with Node.js, featuring real-time interactions and authentication
 
 ## Currently
