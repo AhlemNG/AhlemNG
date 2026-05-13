@@ -36,7 +36,7 @@ I bring rigor, attention to detail, and problem-solving skills into building cle
 - 🔗 [minishell](https://github.com/AhlemNG/MINISHELL) – Unix shell project
 - 🔗 [push_swap](https://github.com/AhlemNG/PUSH_SWAP) – Sorting algorithm challenge
 - 🔗 [webserv](https://github.com/AhlemNG/WEBSERV) – HTTP web server built from scratch in C++
-- 🔗 [Transcendence](https://github.com/SHINAEKWON/Transcendance) – Full-stack web application built with Node.js, featuring real-time interactions and authentication
+- 🔗 [ft_transcendence](https://github.com/SHINAEKWON/Transcendance) – Full-stack web application built with Node.js, featuring real-time interactions and authentication
 
 ## Currently
 - 🚀 Working on Matcha (full-stack project)
